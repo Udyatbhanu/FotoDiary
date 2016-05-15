@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="primary">#ff15a89c</color>
+
+    <color name="nav_menu_background">#004D40</color>
+    <color name="secondary">#ff752c5e</color>
+    <color name="drawer_header_bg">#00695C</color>
+
+    <color name="home_icon">#009688</color>
+    <color name="new_album_icon">#009688</color>
+    <color name="gallery_icon">#009688</color>
+    <color name="settings_icon">#009688</color>
+    <color name="feedback_icon">#009688</color>
+    <color name="help_icon">#009688</color>
+
+
+
+
+
+</resources>
